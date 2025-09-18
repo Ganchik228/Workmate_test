@@ -22,11 +22,14 @@ python main.py --files .\test_data\students1.csv .\test_data\students2.csv --rep
 ![Запуск pip](https://github.com/Ganchik228/Workmate_test/blob/main/screens/run_pip.png)
 
 
-Для тестов либо
+Для тестов
 ```
 uv run pytest
 ```
+![Запуск uv](https://github.com/Ganchik228/Workmate_test/blob/main/screens/pytest_uv.png)
+либо
 ```
 pytest
 ```
+![Запуск uv](https://github.com/Ganchik228/Workmate_test/blob/main/screens/pytest_pip.png)
 Добавить флаги ```--cov``` для проверки покрытия
