@@ -6,7 +6,7 @@
 ```
 uv sync
 ```
-![Запуск uv](https://github.com/Ganchik228/Workmate_test/blob/main/screens/uv_run.png})
+![Запуск uv](https://github.com/Ganchik228/Workmate_test/blob/main/screens/uv_run.png)
 
 либо
 ```
