@@ -6,6 +6,7 @@
 ```
 uv sync
 ```
+{https://github.com/Ganchik228/Workmate_test/blob/main/screens/uv_run.png}
 либо
 ```
 pip install -r requirements.txt
